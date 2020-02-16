@@ -1,0 +1,1 @@
+vbsb --entry ./src --output ./dist/bundle.vbs
