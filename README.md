@@ -13,7 +13,7 @@ Options:
   -h, --help         output usage information
 ```
 
-Files prefixed with `^` are appended to the **beginning** of the bunle.
+Files prefixed with `^` are appended to the **beginning** of the bundle.
 
 Files prefiles with `$` are appended to the **end** of the bundle.
 
